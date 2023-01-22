@@ -56,16 +56,15 @@ def max_marks(list1):
 
 
 ```
-## Sample Input and Output
-![output](./img/max_marks1.jpg) 
+
 
 ## Output:
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-16%2018-32-35.png![image](https://user-images.githubusercontent.com/119395610/212684721-70c1e2bb-8798-4d9f-927e-b85916f35660.png)
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-16%2018-32-51.png![image](https://user-images.githubusercontent.com/119395610/212684813-5d17e891-608e-4f49-88f3-d04e5a92361a.png)
-file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-01-16%2018-33-11.png![image](https://user-images.githubusercontent.com/119395610/212684881-337dc2dc-e366-43a2-b177-0408197438d0.png)
-
-
-
+![WhatsApp Image 2023-01-22 at 17 39 01](https://user-images.githubusercontent.com/119395610/213915462-e0c2ae82-f0f0-4f06-a6af-3ea043f33f90.jpg)
+![WhatsApp Image 2023-01-22 at 17 39 10](https://user-images.githubusercontent.com/119395610/213915605-c0abee9f-ce55-4796-9907-b7326484330b.jpg)
+![WhatsApp Image 2023-01-22 at 17 39 01](https://user-images.githubusercontent.com/119395610/213915620-91fc2b5e-bfcf-4356-bedc-06221f968f2d.jpg)
+![WhatsApp Image 2023-01-22 at 17 39 34](https://user-images.githubusercontent.com/119395610/213915631-1f7b35fc-5665-4ff4-a71c-853ab3476ae0.jpg)
+![WhatsApp Image 2023-01-22 at 17 39 43](https://user-images.githubusercontent.com/119395610/213915644-65f1175a-6644-4fc6-9ad8-4d210d1f89e1.jpg)
+![WhatsApp Image 2023-01-22 at 17 39 54](https://user-images.githubusercontent.com/119395610/213915656-be9529ed-04b3-41df-8954-1fd33bea3831.jpg)
 
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
