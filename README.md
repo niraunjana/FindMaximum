@@ -61,7 +61,7 @@ def max_marks(list1):
 ## Output:
 ![WhatsApp Image 2023-01-22 at 17 39 01](https://user-images.githubusercontent.com/119395610/213915462-e0c2ae82-f0f0-4f06-a6af-3ea043f33f90.jpg)
 ![WhatsApp Image 2023-01-22 at 17 39 10](https://user-images.githubusercontent.com/119395610/213915605-c0abee9f-ce55-4796-9907-b7326484330b.jpg)
-![WhatsApp Image 2023-01-22 at 17 39 01](https://user-images.githubusercontent.com/119395610/213915620-91fc2b5e-bfcf-4356-bedc-06221f968f2d.jpg)
+![WhatsApp Image 2023-01-22 at 17 39 21](https://user-images.githubusercontent.com/119395610/213915817-3af0f799-0613-4c3b-af3e-6acac2b25193.jpg)
 ![WhatsApp Image 2023-01-22 at 17 39 34](https://user-images.githubusercontent.com/119395610/213915631-1f7b35fc-5665-4ff4-a71c-853ab3476ae0.jpg)
 ![WhatsApp Image 2023-01-22 at 17 39 43](https://user-images.githubusercontent.com/119395610/213915644-65f1175a-6644-4fc6-9ad8-4d210d1f89e1.jpg)
 ![WhatsApp Image 2023-01-22 at 17 39 54](https://user-images.githubusercontent.com/119395610/213915656-be9529ed-04b3-41df-8954-1fd33bea3831.jpg)
